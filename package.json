@@ -1,0 +1,28 @@
+{
+  "name": "xiecheng",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunshineBoysFMZ1/xiecheng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunshineBoysFMZ1/xiecheng/issues"
+  },
+  "homepage": "https://github.com/sunshineBoysFMZ1/xiecheng#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.16.1",
+    "fs": "0.0.1-security",
+    "multer": "^1.4.1",
+    "mysql": "^2.17.1"
+  }
+}
